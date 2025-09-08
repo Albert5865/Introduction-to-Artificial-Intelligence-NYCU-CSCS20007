@@ -15,26 +15,28 @@ This repository contains an implementation of a face detection system based on t
 ## Result & Analysis
 
  ### Data_small:
-•	Model accuracy improves with more training iterations.
-•	High true detection rate but also high false positive rate.
-•	Good at recognizing actual faces, showing robustness to facial features.
+	•	Model accuracy improves with more training iterations.
+	•	High true detection rate but also high false positive rate.
+	•	Good at recognizing actual faces, showing robustness to facial features.
 
  ### Data_FDDB:
-•	Accuracy improvements were limited compared to data_small.
-•	Higher false positive rate and difficulty generalizing to complex images.
+	•	Accuracy improvements were limited compared to data_small.
+	•	Higher false positive rate and difficulty generalizing to complex images.
 
  ### Bonus Implementation (Part 6):
-•	Explored error calculations and classifier selection using list comprehensions.
-•	Performance did not reach the same level as the original classifier, especially for FDDB.
+	•	Explored error calculations and classifier selection using list comprehensions.
+	•	Performance did not reach the same level as the original classifier, especially for FDDB.
  
  ### Limitations of Viola-Jones:
-•	Sensitive to lighting variations
-•	Struggles with occlusion
-•	Limited scale adaptability
-•	Susceptible to false positives
+	•	Sensitive to lighting variations
+	•	Struggles with occlusion
+	•	Limited scale adaptability
+	•	Susceptible to false positives
+ 
+![result_p110912sh-0083](https://github.com/user-attachments/assets/c6c0aedf-afb1-4a77-8873-507f0aa0efe1)
 
 ![result_Oppenheimer](https://github.com/user-attachments/assets/6a0d3b10-cda8-4c37-9f3e-808adb12c051)
 
 ## Reference
-•	Viola, P. and Jones, M. (2001). Rapid Object Detection using a Boosted Cascade of Simple Features.
-•	FDDB: Face Detection Data Set and Benchmark.
+	•	Viola, P. and Jones, M. (2001). Rapid Object Detection using a Boosted Cascade of Simple Features.
+	•	FDDB: Face Detection Data Set and Benchmark.
