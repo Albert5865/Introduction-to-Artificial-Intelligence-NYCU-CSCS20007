@@ -33,7 +33,7 @@ This repository contains an implementation of a face detection system based on t
 	•	Limited scale adaptability
 	•	Susceptible to false positives
  
-![result_p110912sh-0083](https://github.com/user-attachments/assets/c6c0aedf-afb1-4a77-8873-507f0aa0efe1)
+![result_p110912sh-0083](https://github.com/user-attachments/assets/74e7fa05-edb5-4f54-911d-d20b48a43a2b)
 
 ![result_Oppenheimer](https://github.com/user-attachments/assets/6a0d3b10-cda8-4c37-9f3e-808adb12c051)
 
